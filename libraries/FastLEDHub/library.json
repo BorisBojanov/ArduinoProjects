@@ -1,0 +1,22 @@
+{
+  "name": "FastLEDHub",
+  "description": "Control multiple FastLED lightstrip animations on the ESP8266/ESP32 without reuploading.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/srwi/FastLEDHub.git"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ],
+  "authors":
+  {
+    "name": "Stephan Rumswinkel",
+    "maintainer": true,
+    "url": "https://github.com/srwi"
+  },
+  "license": "LGPL-2.1-or-later",
+  "version": "2.2.0"
+}

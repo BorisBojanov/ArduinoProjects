@@ -1,0 +1,17 @@
+# Syntax Coloring Map For TimedState
+
+# Datatypes (KEYWORD1)
+TimedState KEYWORD1
+RepeatingTimedState KEYWORD1
+SimpleState KEYWORD1
+State KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+enter KEYWORD2
+forceEnter KEYWORD2
+exit KEYWORD2
+isInside KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)

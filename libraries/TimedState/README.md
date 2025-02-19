@@ -1,0 +1,3 @@
+# TimedState library for Arduino
+
+This `TimedState` library for Arduino provides a set of high quality primitives for working with time-based Arduino programs without the use of `delay()`. It provides a set of `millis()`-based types of `State` that will allow users to manage a set of self-exiting or alternating states. Please look at `TimeState.h` for documentation and `examples/TimedStateTest/TimedStateTest.ino` for a detailed example.

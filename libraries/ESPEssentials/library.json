@@ -1,0 +1,22 @@
+{
+  "name": "ESPEssentials",
+  "description": "Essentials to get you started with your ESP8266 and ESP32 project",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/stnkl/ESPEssentials.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "espressif8266",
+    "espressif32"
+  ],
+  "authors":
+  {
+    "name": "Stephan Rumswinkel",
+    "maintainer": true,
+    "url": "https://github.com/stnkl"
+  },
+  "version": "2.1.4"
+}

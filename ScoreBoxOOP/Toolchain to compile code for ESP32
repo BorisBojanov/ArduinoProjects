@@ -1,0 +1,6 @@
+Toolchain to compile code for ESP32
+
+Build tools - CMake and Ninja to build a full Application for ESP32
+
+ESP-IDF that essentially contains API (software libraries and source code) for ESP32 and scripts to operate the Toolchain
+

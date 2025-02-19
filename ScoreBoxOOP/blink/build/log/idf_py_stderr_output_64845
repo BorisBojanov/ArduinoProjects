@@ -1,0 +1,6 @@
+CMake Warning at /Users/boris/esp/esp-idf/tools/cmake/project.cmake:584 (message):
+  enabled ccache in build but ccache program not found
+Call Stack (most recent call first):
+  CMakeLists.txt:8 (project)
+
+

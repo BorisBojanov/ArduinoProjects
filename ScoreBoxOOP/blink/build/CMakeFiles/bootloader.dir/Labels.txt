@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/CMakeFiles/bootloader
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/CMakeFiles/bootloader.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/CMakeFiles/bootloader-complete.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/boris/Desktop/Arduino/ScoreBoxOOP/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
